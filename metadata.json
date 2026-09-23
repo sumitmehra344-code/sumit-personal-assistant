@@ -1,0 +1,8 @@
+{
+  "name": "Sumit Personal Assistant – Document Q&A Assistant",
+  "description": "Professional AI-powered document Q&A assistant for PDF and DOCX files. Ask questions, get grounded citations, extract key points, and summarize with high accuracy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
